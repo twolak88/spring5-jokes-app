@@ -3,6 +3,10 @@ package twolak.springframework.jokes;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
+/**
+ * @author twolak
+ *
+ */
 @SpringBootApplication
 public class Spring5JokesAppApplication {
 

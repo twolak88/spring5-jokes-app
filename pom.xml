@@ -9,7 +9,7 @@
 	</parent>
 	<groupId>twolak.springframework.jokes</groupId>
 	<artifactId>spring5-jokes-app</artifactId>
-	<version>0.0.1</version>
+	<version>0.0.2-SNAPSHOT</version>
 	<name>spring5-jokes-app</name>
 	<description>Joke App for Spring Boot</description>
 
@@ -66,7 +66,7 @@
 	</build>
 	<scm>
         <developerConnection>scm:git:https://github.com/twolak88/spring5-jokes-app.git</developerConnection>
-      	<tag>spring5-jokes-app-0.0.1</tag>
+      	<tag>HEAD</tag>
   </scm>
 
 </project>
